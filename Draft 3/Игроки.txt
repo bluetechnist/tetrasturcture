@@ -1,0 +1,101 @@
+Игроки:
+	- "рождены" посередине ничего;
+	- уровень 0, полностью голы, без снаряжения, опыта или информации о Городе;
+	- имеют многочисленные "Биологические Сетевые Имплантанты";
+	- клоны/синтетические люди;
+	- система взаимоотношений между игроками;
+	- Сферы Влияние первоначально известны игрокам в единственном числе;
+	- Игроки технически "бессмертны", рождаясь заново в ближайшем терминале после смерти (?);
+	- Добавить сайферы из Нуменеры (?);
+	
+Плавно перевести "рождение" Игроков в подземелье, посредством которого ознакомить их с основными особенностями мира и получить базовое снаряжение. Игроки не простые люди, их смерть ведет к скорому "перерождению".
+По прошествию "Пропуска Времени":
+	1) Определить "Непосредственное Окружение" игроков броском для Генерации Поселения.
+	2) Предоставить Игрокам краткую информацию о поселении
+	3) На основе выбранных Игроками классов и предысторий задать вопросы:
+		WIP: 1) Почему это предыстория/Что произошло?
+			 2) Почему это класс и как он связан с предысторией?
+			 3) Где и с кем знаком/учителя/руководители/контакты?
+			 4) Что движет в жизни/ как цель связана с предысторией?
+			 5) Чем занимаешься сейчас/где живешь?
+			 6) Какую социальную роль выполняешь?
+			 7) Поддерживаешь ли связь с другими игроками?
+		+ наводящие вопросы для стесненных или Игроков с недостатком воображения.
+		+ система взаимоотношений между Персонажами, за игру и РП очки/вдохновения или XP уровень Персонажа x 100?
+		+ спросить Игроков какие знания о мире они хотели бы получить, совершив соответствующие броски
+		+ составить план знакомства с персонажами
+		https://fate-srd.com/fate-core/phase-trio
+
+		
+Вопросы для взаимоотношений между персонажами (1d34):
+	Влияние которое твой Персонаж оказал влияние на других:
+	01) You think _ is not the sharpest tool in the shed and working on enlightening them.
+	02) You do not trust _ and for good reason. What is the reason?
+	03) You have stolen something from _. Ask them was it was and how they felt about it.
+	04) You think _ is woefully misinformed about the world and you have decided to teach them all you know.
+	05) You believe that _ will play an important role in the future. What will they do?
+	06) You helped _ at a critical point in their quest for revenge. How?
+	07) You grew up with _. Where was this?
+	08) You have a nickname for _. What is it?
+	09) You and _ have a con running. What is the plan?
+	10) For some reason _ often does what you say. How come?
+	11) You betrayed _ once before and they still have unresolved emotions with you. What happened?
+	12) You failed _ once before and they still have unresolved emotions with you. What happened?
+	13) You think _ is misguided and you are working on converting them to your faith and views. What faith or views could that be?
+	14) You know _'s secret and you are watching them. What is that secret?
+	15) You have been hearing rumors about _ and do not fully trust them. What rumors would that be?
+	16) You saved _ from doing a huge mistake once. When was this and what mistake was it?
+	17) You often make fun of _ in your jokes. How come?
+	18) You saw _ absolutely lose it and go berserk once. What happened?
+	19)_ owes you a favor, whether they admit it or not. Why?
+	20) _ came to you for advice once. What advice was that?
+	21) At some point, _ has sworn to protect you. Why and what happened?
+	22) _ lost control one time and almost killed you. How did you stop them?
+	23) _ owes you their life, whether they admit it or not. How come?
+	24) _ knows incriminating details about you. What details are these?
+	25) You and _ lost a mutual friend or relative. Who was it and what happened?
+	26) _ stood between you and what you wanted. What was it and why did you do it?
+	27) You think that _ is a liability and not an asset to the group. How come?
+	28) You think _ is soft but you will make them hard as you. Why do you think they are soft?
+	29) You respect _'s hard-earned knowledge, and often come to them for advice.
+	30) You met _ in another adventure before. When was this?
+	31) You saved _'s life in a tight spot once. What happened?
+	32) _ and you fought together against the odds and prevailed. In what situation was that?
+	33) You saw _ use their power for selfish or vindictive reasons. Who was the victim and what did they do?
+	34) You and _ has shared the same vision. What vision was this?
+	
+	Влияние которое другие Персонажи оказывают на тебя:
+	01) _ thinks you are not the sharpest tool in the shed and is working on enlightening you.
+	02) _ does not trust you and for good reason. Ask them what the reason is.
+	03) _ has stolen something from you. What was it and how does it make you feel?
+	04) _ thinks you are woefully misinformed about the world and they have decided to teach them you all they know.
+	05) _ believes you will play an important role in the future. Ask them what they think you will do?
+	06)_ helped you at a critical point in your quest for revenge. Ask them how.
+	07) _ grew up with you. Ask them where this was.
+	08) _ has a nickname for you. Ask them what it is.
+	09) _ and you have a con running. Ask them what the plan is.
+	10) _ often tells you what to do. Ask them how come.
+	11) _ has betrayed you once before and you still have unresolved emotions with them. Ask them what happened.
+	12) _ has failed you once before and you still have unresolved emotions with them. Ask them what happened.
+	13) _ thinks you are misguided and they are working on converting you to their faith or views. Ask them what faith or views they are.
+	14) _ knows your secret and is watching you. Ask them what secret it is.
+	15) _ has heard rumors about you and do not fully trust you. Ask them what rumors they were.
+	16) _ saved you from doing a huge mistake once. Ask them when this was and what mistake was it?
+	17) _ often makes jokes about you. Ask them why.
+	18) _ saw you absolutely lose it and go berserk once. Ask them what happened.
+	19) You owe _ a favor, whether you admit it or not. Ask them why.
+	20) You went to _ for advice once. What you needed advice about?
+	21) At some point, you have sworn to protect _. Ask them why and what happened?
+	22) You lost control one time, and almost killed _. Ask them how did they stopped you.
+	23) You owe _ your life, whether you admit it or not. Ask them why.
+	24) You know incriminating details about _. Ask them what details these are.
+	25) _ and you lost a mutual friend or relative. Ask them who it was and what happened?
+	26) You stood between _ and what they needed. Ask them what it was and why they did it.
+	27) _ thinks you are a liability and not an asset to the group. Ask them why.
+	28) _ thinks you are soft and they want to make them hard as they. Ask them why they think you are soft.
+	29) _ respects you for your hard-earned knowledge, and often come to you for advice.
+	30) _ has met you in another adventure before. Ask them when this was.
+	31) _ saved your life in a tight spot once. Ask them what happened.
+	32) You fought together with _ against the odds and prevailed. Ask them in what situation that this was.
+	33) _ saw you use your power for selfish or vindictive reasons. Ask them who the victim was and what you did.
+	34) _ and you have shared the same vision. Ask them what vision was this.

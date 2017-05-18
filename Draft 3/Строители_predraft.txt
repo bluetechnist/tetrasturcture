@@ -1,0 +1,96 @@
+Существа взятые за основу:
+	1) Dragonoids and lizards (completely separate kind of construct?)
+		— Aboleth
+		— Basilisk
+		— Behir
+		— COCKATRICE
+		— COUATL
+		— DINOS
+		— DRAGONS AND WYRMLING
+		— Dragon Turtle
+		— Dragon GIBBERING MOUTHER
+		— Half-Dragons
+		— Hydra
+		— Kobolds
+		— Lizardfolk
+		— Nagas?
+		— SALAMANDERS
+		— TARRASQUE (Gargantuan monstrosity)
+		— WYVERN
+		— YUAN-TI?
+		— Amphiptere
+		— Andrenjinyi
+		— Dragon, Cave
+		— Drakes
+		— Gbahali
+		— Jaculus
+		— Naina
+		— Sandwyrm
+		— Zaratan
+		— Zmei
+		
+	2) Insects
+		— Ankheg
+		— Carrion Crawler
+		— Chuul (Aboleth?)
+		— Darkmantle
+		— Ice Devil (для все еще подконтрольных сфере?)
+		— Driders (для рас работающих с хранителями)
+		— Ettercap
+		— Flumph?
+		— Grell?
+		— Grick
+		— Piercer
+		— Purple Worm
+		— Roper?
+		— RUST MONSTER
+		— STIRGE
+		— TARRASQUE
+		— THRI- KREEN
+		— UMBER HULK
+		— FORMIAN
+		— Angler Worm
+		— Ant, Giant
+		— Chelicerae
+		— Akyishigal, Demon Lord of Cockroaches
+		— Qorgeth, Demon Lord of the Devouring Worm
+		— Arbeyach
+		— Devil, Automata
+		— Garroter Crab
+		— Gerridae
+		— Horakh
+		— Mi-Go
+		— Millitaur
+		— Morphoi?
+		— Rime Worm
+		— Roachling
+		— Sathaq Worm
+		— Selang
+		— Skitterhaunt
+		— Spiders?
+		— Suturefly
+		— Swarms
+		— Tosculi
+		— Xhkarsh
+		
+	3) Constructs?
+	— SHIELD GUARDIAN
+	— Clockworks
+	— Gearforged
+	— Warforged
+	— Animated things
+	— Cobbleswarm?
+	— Eater of Dust
+	— Fellforged
+	— Gearforged
+	— Golem, Steam
+	— Library Automaton
+	— Monoliths
+	— Possessed Pillar
+	— Shabti
+	— Tophet
+	— Ushabti
+	— Xanksa
+	
+	4) Modrons?
+	5) Undead
