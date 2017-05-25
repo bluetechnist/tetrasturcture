@@ -1,3 +1,23 @@
+Предположительный timeskip — 5 лет.
+Женя, Оглаф Кегль:
+Преступная группировка: изначально занималась мелким воровством, а после перешла на заказные убийства, что и повлекло уход.
+[Боевой маг в бывший в составе действующей армии, отошел отдел, завел семью / Член преступной группировки, отошел отдел, завел семью, бандиты сожгли деревню (не грабя и не воруя), перстень со змей на руке главаря. Смысл жизни — месть.]
+
+Мотивация: месть за убитую семью. Беременная жена — Лилия Вейл, огненно-рыжие волосы;
+Цель: человек в черной перчатке с перстнем со змеей, овивающей человека;
+Род занятий: Смотритель "Зала знаний";
+Мировозрение: Хаотично-нейтральное;
+Traits: Control Freak. Striving for Success.
+В дополнении: письмо одному из членов партии.
+
+Потенциальная связь — Поселение Крутой Лестницы. Имеется 
+	— Кочевое поселение, форма правления Геронтократия. Огромный жилой лифт/корабль/Автомобиль? Связь со план земли (просторный регион настоящей земли)? Была вырезана целая улица, среди ее жителей его семья.
+	— "Анклав" — небольшой институт магических наук. Собирают информацию, с радостью ей делятся, но не учат. Крайне вероятно что из всего того, что им удалось собрать за долгие годы исследований сами понимают очень мало.
+	— Группировка "Призрачных теней" — грабеж, разбой, убийства, работорговля (мятеж/гос-переворот?).
+
+
+	
+Общие сведенья:
 Игроки:
 	- "рождены" посередине ничего;
 	- уровень 0, полностью голы, без снаряжения, опыта или информации о Городе;
@@ -28,41 +48,41 @@
 
 		
 Вопросы для взаимоотношений между персонажами (1d34):
-	Влияние которое твой Персонаж оказал влияние на других:
-	01) You think _ is not the sharpest tool in the shed and working on enlightening them.
-	02) You do not trust _ and for good reason. What is the reason?
-	03) You have stolen something from _. Ask them was it was and how they felt about it.
-	04) You think _ is woefully misinformed about the world and you have decided to teach them all you know.
-	05) You believe that _ will play an important role in the future. What will they do?
-	06) You helped _ at a critical point in their quest for revenge. How?
-	07) You grew up with _. Where was this?
-	08) You have a nickname for _. What is it?
-	09) You and _ have a con running. What is the plan?
-	10) For some reason _ often does what you say. How come?
-	11) You betrayed _ once before and they still have unresolved emotions with you. What happened?
-	12) You failed _ once before and they still have unresolved emotions with you. What happened?
-	13) You think _ is misguided and you are working on converting them to your faith and views. What faith or views could that be?
-	14) You know _'s secret and you are watching them. What is that secret?
-	15) You have been hearing rumors about _ and do not fully trust them. What rumors would that be?
-	16) You saved _ from doing a huge mistake once. When was this and what mistake was it?
-	17) You often make fun of _ in your jokes. How come?
-	18) You saw _ absolutely lose it and go berserk once. What happened?
-	19)_ owes you a favor, whether they admit it or not. Why?
-	20) _ came to you for advice once. What advice was that?
-	21) At some point, _ has sworn to protect you. Why and what happened?
-	22) _ lost control one time and almost killed you. How did you stop them?
-	23) _ owes you their life, whether they admit it or not. How come?
-	24) _ knows incriminating details about you. What details are these?
-	25) You and _ lost a mutual friend or relative. Who was it and what happened?
-	26) _ stood between you and what you wanted. What was it and why did you do it?
-	27) You think that _ is a liability and not an asset to the group. How come?
-	28) You think _ is soft but you will make them hard as you. Why do you think they are soft?
-	29) You respect _'s hard-earned knowledge, and often come to them for advice.
-	30) You met _ in another adventure before. When was this?
-	31) You saved _'s life in a tight spot once. What happened?
-	32) _ and you fought together against the odds and prevailed. In what situation was that?
-	33) You saw _ use their power for selfish or vindictive reasons. Who was the victim and what did they do?
-	34) You and _ has shared the same vision. What vision was this?
+	Влияние которое твой Персонаж оказал на других. Обсудите это с Х:
+	01) You think _ is not the sharpest tool in the shed and working on enlightening them. / Вы считаете что Х не блещет умом. Вы хотите сделать просвятить его. Как?
+	02) You do not trust _ and for good reason. What is the reason? / Вы не доверяете Х и имеете на то хорошие причины. Какие?
+	03) You have stolen something from _. Ask them was it was and how they felt about it. / Вы украли что-то у Х. Спросите у него что именно и как он к этому относится.
+	04) You think _ is woefully misinformed about the world and you have decided to teach them all you know. / Вы думаете что Х не имеет ни малейшего представления о реальности и решили обучить его всему что вы знаете.
+	05) You believe that _ will play an important role in the future. What will they do? / Вы считаете что Х будет играть важную роль в будущих событиях. Какую?
+	06) You helped _ at a critical point in their quest for revenge. How? / Х ищет мести и Вы помогли ему переломный момент их. Каким образом?
+	07) You grew up with _. Where was this? / Вы выросли вместе с Х. Где?
+	08) You have a nickname for _. What is it? / Вы придумали кличку для Х. Какую?
+	09) You and _ have a con running. What is the plan? / Вы и Х придумали хитрую противозаконная схему. Какую?
+	10) For some reason _ often does what you say. How come? / По каким-то причинам Х часто выполняет ваше пожелания и просьбы. Почему?
+	11) You betrayed _ once before and they still have unresolved emotions with you. What happened? / Вы подставили Х в прошлом и его все еще терзают эмоции. Что случилось?
+	12) You failed _ once before and they still have unresolved emotions with you. What happened? / Вы подвели Х в прошлом и его все еще терзают эмоции. Что случилось?
+	13) You think _ is misguided and you are working on converting them to your faith and views. What faith or views could that be? / Вы считаете что убеждения и религия Х ошибочны и пытаетесь перетянуть их в свою. Что это за вера?
+	14) You know _'s secret and you are watching them. What is that secret? / Вам известен секрет Х и вы внимательно наблюдаете за ним. Что это за секрет?
+	15) You have been hearing rumors about _ and do not fully trust them. What rumors would that be? / Вы слышали нехорошие слуху о Х и теперь не доверяете ему. Что это за слухи?
+	16) You saved _ from doing a huge mistake once. When was this and what mistake was it? / Вам удалось остановить Х от совершения серьезной ошибки. Когда это произошло и что за ошибка это была?
+	17) You often make fun of _ in your jokes. How come? / Вы часто высмеиваете Х в своих шутках.
+	18) You saw _ absolutely lose it and go berserk once. What happened? / Вы видели как Х  испытал эмоциональный срыв и пришел в бешенство. Что случилось?
+	19)_ owes you a favor, whether they admit it or not. Why? / Х перед вами в долгу, признает они это или нет. Что случилось?
+	20) _ came to you for advice once. What advice was that? / Однажды Х попросил вас дать ему совет. Каков был ваш ответ?
+	21) At some point, _ has sworn to protect you. Why and what happened? / Ранее Х поклялся защищать вас. Что случилось и почему?
+	22) _ lost control one time and almost killed you. How did you stop them? / Однажды, в своей вспышки гнева Х едва не убил вас. Как вам удалось остановить его?
+	23) _ owes you their life, whether they admit it or not. How come? / Х обязан вам своей жизнью, признает они это или нет. Что случилось?
+	24) _ knows incriminating details about you. What details are these? / Х знает некоторые детали вашего криминального прошлого. Что это за детали?
+	25) You and _ lost a mutual friend or relative. Who was it and what happened? / Ваш общий с Х друг или родственник погиб. Кто это был и что случилось?
+	26) _ stood between you and what you wanted. What was it and why did you do it? / Х встал между вами и вашей целью. Что это за цель и почему он это сделал?
+	27) You think that _ is a liability and not an asset to the group. How come? / Вы считаете что Х слабое звено в партии. Почему?
+	28) You think _ is soft but you will make them hard as you. Why do you think they are soft? / Вы считаете что Х слишком мягок и хотите сделать его таким же жестким как и вы. Почему вы считаете его мягким?
+	29) You respect _'s hard-earned knowledge, and often come to them for advice. Вы уважаете приобретенные тяжелым трудом знания Х и часто приходите к нему за советом.
+	30) You met _ in another adventure before. When was this? Вам уже доводилось путешествовать вместе с Х. Когда это было?
+	31) You saved _'s life in a tight spot once. What happened? / Однажды вы спасли жизнь Х когда он находился в трудном положении. Что случилось?
+	32) _ and you fought together against the odds and prevailed. In what situation was that? / Вы и Х сражались вместе и одержали победу вопреки всему. Что это была за ситуация?
+	33) You saw _ use their power for selfish or vindictive reasons. Who was the victim and what did they do? / Вы видели как Х использует свою силу для мести или эгоистических мотивов. Кто был жертвой и что они сделали?
+	34) You and _ has shared the same vision. What vision was this? / Вы и Х испытали общее видение. О чем оно было?
 	
 	Влияние которое другие Персонажи оказывают на тебя:
 	01) _ thinks you are not the sharpest tool in the shed and is working on enlightening you.
