@@ -1,0 +1,4 @@
+Abjuration — Ограждение
+Transmutation — Преобразование
+Сonjuration — Вызов
+Enchantment — Очарование
