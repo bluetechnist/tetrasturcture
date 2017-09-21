@@ -1,0 +1,129 @@
+Abyssal (Sphere)			Demons, chaotic evil outsiders							Infernal
+Aquan (Primordial)			Water-based creatures									Elven
+Auran (Primordial)			Air-based creatures										Draconic
+Celestial (Sphere)			Celestials (angels, devas)								Celestial
+Common (Люди)				Humans, halflings, half-elves, half-orcs				Common
+Deep Speech (Искоренители)	Mind flayers, beholders									—
+Draconic (Строители)		Kobolds, troglodytes, lizardfolk, dragons, dragonborn	Draconic
+Dwarvish (Люди)				Dwarves													Dwarvish
+Elvish (Люди)				Elves													Elvish
+Giant (Люди)				Ogres, giants											Dwarvish
+Gnomish (Люди)				Gnomes													Dwarvish
+Goblin (Люди)				Goblinoids, hobgoblins, bugbears						Dwarvish
+Gnoll  (Искоренители)		Gnolls													Common
+Halfling (Люди)				Halflings												Common
+Ignan (Primordial)			Fire-based creatures									Draconic
+Infernal (Sphere)			Devils, Tieflings										Infernal
+Orc (Люди)					Orcs													Dwarvish
+Primordial (Primordial)		Elementals												Dwarvish
+Sylvan (Sphere)				Fey creatures (dryads, brownies, leprechauns)			Elvish
+Terran (Primordial)			Xorns and other earth-based creatures					Dwarven
+Undercommon (Люди)			Drow, Underdark traders									Elvish
+
+
+	ЯЗЫКИ ЛЮДЕЙ
+01-05.	Общий (Люди)					Humans, halflings, half-elves, half-orcs				Common
+06-10.	Полуросличий (Люди)				Halflings												Common
+11-15.	Великаний (Люди)				Ogres, giants											Dwarvish
+16-20.	Дварфийский (Люди)				Dwarves													Dwarvish
+21-25.	Гномий (Люди)					Gnomes													Dwarvish
+26-30.	Гоблинский (Люди)				Goblinoids, hobgoblins, bugbears						Dwarvish
+31-35.	Орочий (Люди)					Orcs													Dwarvish
+36-40.	Эльфийский (Люди)				Elves													Elvish
+41-45.	Подземный (Люди)				Drow, Underdark traders									Elvish
+	ЯЗЫКИ МАТЕРИАЛЬНЫХ ПЛАНОВ
+46-50.	Первичный (Primordial)			Elementals												Dwarvish
+51-55.	Акван (Primordial)				Water-based creatures									Elven
+56-60.	Ауран (Primordial)				Air-based creatures										Draconic
+61-65.	Игнан (Primordial)				Fire-based creatures									Draconic
+66-70.	Терран (Primordial)				Xorns and other earth-based creatures					Dwarven
+71-75.	Драконий (Строители)			Kobolds, troglodytes, lizardfolk, dragons, dragonborn	Draconic
+	ЯЗЫКИ СФЕР
+76-80.	Бездны (Sphere)					Demons, chaotic evil outsiders							Infernal
+81-85.	Небесный (Sphere)				Celestials (angels, devas)								Celestial
+86-90.	Инфернальный (Sphere)			Devils, Tieflings										Infernal
+91-95.	Сильван (Sphere)				Fey creatures (dryads, brownies, leprechauns)			Elvish
+	ЯЗЫКИ ИСКОРЕНИТЕЛЕЙ ПЛОТИ
+96-00.	Глубинная Речь (Искоренители)	Mind flayers, beholders									—
+	ЯЗЫК СТРОИТЕЛЕЙ
+
+	ЯЗЫКИ ЛЮДЕЙ
+01-05.	Common (Люди)					Humans, halflings, half-elves, half-orcs				Common
+06-10.	Halfling (Люди)					Halflings												Common
+11-15.	Giant (Люди)					Ogres, giants											Dwarvish
+16-20.	Dwarvish (Люди)					Dwarves													Dwarvish
+21-25.	Gnomish (Люди)					Gnomes													Dwarvish
+26-30.	Goblin (Люди)					Goblinoids, hobgoblins, bugbears						Dwarvish
+31-35.	Orc (Люди)						Orcs													Dwarvish
+36-40.	Elvish (Люди)					Elves													Elvish
+41-45.	Undercommon (Люди)				Drow, Underdark traders									Elvish
+	ЯЗЫКИ МАТЕРИАЛЬНЫХ ПЛАНОВ
+46-50.	Primordial (Primordial)			Elementals												Dwarvish
+51-55.	Aquan (Primordial)				Water-based creatures									Elven
+56-60.	Auran (Primordial)				Air-based creatures										Draconic
+61-65.	Ignan (Primordial)				Fire-based creatures									Draconic
+66-70.	Terran (Primordial)				Xorns and other earth-based creatures					Dwarven
+71-75.	Draconic (Строители)			Kobolds, troglodytes, lizardfolk, dragons, dragonborn	Draconic
+	ЯЗЫКИ СФЕР
+76-80.	Abyssal (Sphere)				Demons, chaotic evil outsiders							Infernal
+81-85.	Celestial (Sphere)				Celestials (angels, devas)								Celestial
+86-90.	Infernal (Sphere)				Devils, Tieflings										Infernal
+91-95.	Sylvan (Sphere)					Fey creatures (dryads, brownies, leprechauns)			Elvish
+	ЯЗЫКИ ИСКОРЕНИТЕЛЕЙ ПЛОТИ
+96-00.	Deep Speech (Искоренители)		Mind flayers, beholders									—
+	ЯЗЫК СТРОИТЕЛЕЙ
+
+Standard Languages
+======================================
+Language        Usual Speakers      Script
+--------------------------------------
+Common          Humans              Common
+Dwarvish        Dwarves             Dwarvish
+Elvish          Elves               Elvish
+Giant           Giants, Ogres       Dwarvish
+Gnomish         Gnomes              Dwarvish
+Goblin          Goblinoids          Dwarvish
+Halfling        Halflings           Common
+Orc             Orcs                Dwarvish
+
+
+Uncommon Languages
+======================================
+Language        Usual Speakers      Script
+--------------------------------------
+Draconic        Dragonoids          Draconic
+Undercommon     Underdark residents Elvish
+Aarakocra       Aarakocra           ??
+Bullywog        Bullywogs           ??
+Gith            Gith                Githish
+Gnoll           Gnolls              ??
+Sahuagin        Sahuagin            ??
+Sphinx          Sphinxes            ??
+Thri-kreen      Thri-kreen          ??
+Troglodyte      Troglodytes         ??
+Yeti            Yetis               ??
+
+
+Exotic Languages
+======================================
+Language        Usual Speakers      Script
+--------------------------------------
+Celestial       Celestials          Celestial
+Abyssal         Demons (CE)         Infernal
+Infernal        Devils (LE)         Infernal
+Deep Speech     Aberrations         --
+Grell           Aberrations         --
+Primordial      Elementals          Dwarvish
+Auran           Elementals; air     Dwarvish
+Terran          Elementals; earth   Dwarvish
+Ignan           Elementals; fire    Dwarvish
+Aquan           Elementals; water   Dwarvish
+Sylvan          Fey                 Elvish
+Hook Horror     Hook Horrors        ??
+Modron          Modrons             ??
+Otyugh          Otyughs             ??
+Slaad           Slaadi              ??
+Umber Hulk      Umber Hulks         ??
+Grung           Grung               ??
+Tlincalli       Tlincalli           ??
+Vegepygmie      Vegepygmie          ??
