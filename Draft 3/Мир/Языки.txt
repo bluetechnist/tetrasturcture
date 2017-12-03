@@ -42,7 +42,7 @@ Undercommon (Люди)			Drow, Underdark traders									Elvish
 76-80.	Бездны (Sphere)					Demons, chaotic evil outsiders							Infernal
 81-85.	Небесный (Sphere)				Celestials (angels, devas)								Celestial
 86-90.	Инфернальный (Sphere)			Devils, Tieflings										Infernal
-91-95.	Сильван (Sphere)				Fey creatures (dryads, brownies, leprechauns)			Elvish
+91-95.	Сильван (Sphere)				Fey creatures (dryads, brownies, leprechauns)			
 	ЯЗЫКИ ИСКОРЕНИТЕЛЕЙ ПЛОТИ
 96-00.	Глубинная Речь (Искоренители)	Mind flayers, beholders									—
 	ЯЗЫК СТРОИТЕЛЕЙ
